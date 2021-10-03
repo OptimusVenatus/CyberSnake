@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/eat.mp3</SourceFile>
+  <SourceTime>2021-03-24T14:33:11.7378108+01:00</SourceTime>
+  <DestFile>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/bin/Android/eat.xnb</DestFile>
+  <DestTime>2021-03-24T14:33:35.633063+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T15:17:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T15:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/bin/Android/eat.m4a</string>
+  </BuildOutput>
+</PipelineBuildEvent>

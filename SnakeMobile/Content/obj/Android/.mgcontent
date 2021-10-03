@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/eat.mp3</File>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/File.spritefont</File>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/logo.png</File>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/play.png</File>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/PlayAgain.png</File>
+    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/quit.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
