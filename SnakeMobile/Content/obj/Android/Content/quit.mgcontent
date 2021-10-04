@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/quit.png</SourceFile>
-  <SourceTime>2021-03-24T14:39:20.5888985+01:00</SourceTime>
-  <DestFile>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/bin/Android/Content/quit.xnb</DestFile>
-  <DestTime>2021-03-24T14:44:43.9127876+01:00</DestTime>
+  <SourceFile>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/quit.png</SourceFile>
+  <SourceTime>2021-10-04T22:04:18.1303585+02:00</SourceTime>
+  <DestFile>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/bin/Android/Content/quit.xnb</DestFile>
+  <DestTime>2021-10-04T22:15:44.2612701+02:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2020-08-10T15:17:54+01:00</ImporterTime>
+  <ImporterTime>2020-08-10T16:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2020-08-10T15:17:54+01:00</ProcessorTime>
+  <ProcessorTime>2020-08-10T16:17:54+02:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

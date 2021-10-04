@@ -90,8 +90,6 @@
         <PackageReference Include="MonoGame.Extended" Version="3.8.0" />
         <PackageReference Include="MonoGame.Framework.Android" Version="3.8.0.1641" />
         <PackageReference Include="MonoGame.Framework.Portable" Version="3.7.1.189" />
-        <PackageReference Include="Myra" Version="1.2.3" />
-        <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.4.0" />
         <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

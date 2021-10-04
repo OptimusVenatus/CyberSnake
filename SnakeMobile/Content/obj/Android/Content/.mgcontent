@@ -4,15 +4,13 @@
   <Platform>Android</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/eat.mp3</File>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/File.spritefont</File>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/logo.png</File>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/play.png</File>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/PlayAgain.png</File>
-    <File>C:/Users/Edouard/RiderProjects/SnakeMobile/SnakeMobile/Content/quit.png</File>
+    <File>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/File.spritefont</File>
+    <File>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/logo.png</File>
+    <File>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/play.png</File>
+    <File>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/PlayAgain.png</File>
+    <File>C:/Users/Edouard/Documents/github/CyberSnake/SnakeMobile/Content/quit.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File>Arial.spritefont</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
