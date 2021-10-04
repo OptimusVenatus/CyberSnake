@@ -1,0 +1,7 @@
+Cyebrsnake is a 72h coding challenge from 2021-22-03
+
+This version is not matrix based
+
+The traps are triangle things ,  THEY CAN KILL YOU
+
+The apple is the red hexagon

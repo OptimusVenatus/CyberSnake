@@ -1,0 +1,7 @@
+CyberSnake est un challenge de programmation en 72H que j'ai réalisé le 22 mars 2021
+
+Cette version n'est pas basée sur une matrice
+
+Les pièges sont les choses triangulaires, ILS VONT VOUS TUER
+
+La pomme est l'héxagone rouge
