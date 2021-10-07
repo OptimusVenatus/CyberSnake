@@ -33,9 +33,6 @@ namespace SnakeMobile
         //creation of player
         private player _pl;
         
-        //private int deathtime;
-
-        private Song eatS;
 
         private Texture2D LogoT;
         private Texture2D PlayT;
